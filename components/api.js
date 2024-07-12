@@ -1,7 +1,6 @@
 import AsyncStorage from "@react-native-async-storage/async-storage";
 
-const apiKey = "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";
-//the api key should really be tucked away safely in backend, but this will do for now.
+const apiKey = "redacted for github"
 
 export async function talkToAi(userInput) {
 
